@@ -1,3 +1,3 @@
 #!ipxe
-sanboot http://http://ruevers.firstcloudit.com/sea.iso
+sanboot https://github.com/ruevers/nostagia/releases/download/beta/sea.iso
 boot
