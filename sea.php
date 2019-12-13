@@ -1,3 +1,3 @@
 #!ipxe
-sanboot https://github.com/ruevers/nostagia/releases/download/beta/sea.iso
+sanboot https://raw.githubusercontent.com/ruevers/nostagia/master/sea.php
 boot
